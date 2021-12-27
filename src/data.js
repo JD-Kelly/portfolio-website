@@ -3,4 +3,8 @@ export const skills = [
   "React",
   "Next.js",
   "Node",
+  "Java",
+  "Ruby",
+  "Ruby on Rails",
+  "Linux"
 ];
