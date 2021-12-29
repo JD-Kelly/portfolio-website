@@ -8,9 +8,29 @@ export default function About() {
           <h1 className="title-font pb-3 sm:text-7xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Jonny.
           </h1>
-          <h2 className="hidden lg:inline-block sm:text-5xl">
+          <h2 className="hidden lg:inline-block sm:text-5xl pb-7">
             I love to build impactful software. 
           </h2>
+          <div>
+            <a href="https://www.linkedin.com/in/j-kelly/" target="_blank">
+          <img 
+            className="rounded-full"
+            src="./linkedin.png"
+            width="60" 
+            height="60" 
+          />
+          </a>
+          </div>
+          <div>
+            <a href="https://github.com/JD-Kelly" target="_blank">
+          <img
+            className="rounded-full pt-4"
+            src="./github.png"
+            width="60" 
+            height="60" 
+          />
+          </a>
+          </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
