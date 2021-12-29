@@ -12,7 +12,7 @@ export default function About() {
             I love to build impactful software. 
           </h2>
           <div>
-            <a href="https://www.linkedin.com/in/j-kelly/" target="_blank">
+            <a href="https://www.linkedin.com/in/j-kelly/" target="_blank" rel="noopener noreferrer">
           <img 
             className="rounded-full"
             src="./linkedin.png"
@@ -22,9 +22,9 @@ export default function About() {
           </a>
           </div>
           <div>
-            <a href="https://github.com/JD-Kelly" target="_blank">
+            <a href="https://github.com/JD-Kelly" target="_blank" rel="noopener noreferrer">
           <img
-            className="rounded-full pt-4"
+            className="rounded-full pt-2"
             src="./github.png"
             width="60" 
             height="60" 
