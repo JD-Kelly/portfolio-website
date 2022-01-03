@@ -15,6 +15,7 @@ export default function About() {
             <a href="https://www.linkedin.com/in/j-kelly/" target="_blank" rel="noopener noreferrer">
           <img 
             className="rounded-full"
+            alt="linkedin icon"
             src="./linkedin.png"
             width="60" 
             height="60" 
@@ -25,6 +26,7 @@ export default function About() {
             <a href="https://github.com/JD-Kelly" target="_blank" rel="noopener noreferrer">
           <img
             className="rounded-full pt-2"
+            alt="github icon"
             src="./github.png"
             width="60" 
             height="60" 
@@ -35,7 +37,7 @@ export default function About() {
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="object-cover object-center rounded-full"
-            alt="hero"
+            alt="portrait"
             src="./portrait.jpg"
           />
         </div>
