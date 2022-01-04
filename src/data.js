@@ -15,7 +15,7 @@ export const projects = [
     title: "Covid Mapping",
     subtitle: "React",
     description:
-      "Tracking the latest data on Covid via API data.",
+      "Tracking the latest data on Covid via API data and mapped to country.",
     image: "./covid_mapping.png",
     link: "https://github.com/JD-Kelly/react-covid-mapping",
   },
