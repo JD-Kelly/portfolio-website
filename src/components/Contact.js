@@ -4,8 +4,8 @@ import React from "react";
 export default function Contact() {
   return (
     <section id="contact" className="relative">
-      <div className="container flex justify-center items-center px-15 py-18 pl-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
-          <h2 className="flex justify-center items-center text-white sm:text-4xl text-3xl font-medium title-font mb-2">
+      <div className="container px-5 py-10 pt-20 mx-auto text-center lg:px-40">
+          <h2 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             I'm open to new opportunities.
           </h2>
       </div>
