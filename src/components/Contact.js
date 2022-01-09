@@ -1,10 +1,12 @@
 import React from "react";
+import { SearchIcon } from "@heroicons/react/solid";
 
 
 export default function Contact() {
   return (
     <section id="contact" className="relative">
       <div className="container px-5 py-10 pt-20 mx-auto text-center lg:px-40">
+        < SearchIcon className="mx-auto inline-block w-10 mb-4" />
           <h2 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             I'm open to new opportunities.
           </h2>
