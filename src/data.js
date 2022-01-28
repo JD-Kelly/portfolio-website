@@ -15,7 +15,7 @@ export const projects = [
     title: "Covid Mapping",
     subtitle: "React",
     description:
-      "Tracking the latest data on Covid via API data and mapped to country.",
+      "Using the latest API data this tracks the latest data on Covid and maps to an interactive world map.",
     image: "./covid_mapping.png",
     link: "https://github.com/JD-Kelly/react-covid-mapping",
   },
@@ -23,9 +23,17 @@ export const projects = [
     title: "Hang-Git",
     subtitle: "React, Node.js",
     description:
-      "An educational game built to help people get to grips with Git.",
+      "An educational game built to help people get to grips with Git. Based on the classic hang-man game.",
     image: "./hang_git.png",
     link: "https://github.com/JD-Kelly/hang-git",
+  },
+  {
+    title: "DebugDAO",
+    subtitle: "React, Javascript",
+    description:
+      "A decentralized autonomous organization - connect your wallet, mint an NFT and see a DAO Dashboard",
+    image: "./debugDAO.png",
+    link: "https://unruffled-kepler-095ad0.netlify.app/",
   },
 ]
 
